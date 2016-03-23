@@ -32,7 +32,7 @@ e as specific
 %   to your Wordpress installation (if you are hosting your page on the 
 %   let.vupr.nl site it's already there, it may just need to be enabled). 
 %   On your publications page, simply state: 
-%   [bibtex file=http://kyoto.let.vu.nl/~vossen/cltl.bib group=year group_order=
+%   [bibtex file=https://raw.githubusercontent.com/cltl/bibliography/master/cltl.bib group=year group_order=
 desc template=av-bibtex author=YOURLASTNAME] in order to only display your publications
 %   Please note that if you have publications from before you joined the group, 
 %   you need to specify an additional bibtex source file that contains those 
