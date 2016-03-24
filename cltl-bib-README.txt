@@ -9,8 +9,7 @@ on cltl.nl
 %	2. Add your project acronym to the keywords field
 % 	3. Provide a URL to the PDF source of the paper 
 %	   (either somewhere openly published (preferable), or a copy on your own website
-%	4. Make sure you don't duplicate keys, so either make up bibkeys that ar
-e as specific
+%	4. Make sure you don't duplicate keys, so either make up bibkeys that are as specific
 %      as possible, or use a bibliography manager to make your life easier   
 %   5. If available, add links to "Slides" and "Resources" (For these we have generated 
 %      two custom bibtex fields, see below)
